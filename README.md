@@ -30,12 +30,12 @@
 <img
   align="center"
   alt="shinbastien's GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=shinbastien&count_private=true&show_icons=true"
+  src="https://github-readme-stats.vercel.app/api?username=shinbastien&exclude_repo=Pintos,PINTOS-1&count_private=true&show_icons=true"
 />
 <img
   align="center"
   alt="shinbastien's GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinbastien&hide=tex,jupyter%20notebook&count_private=true&layout=compact&langs_count=10"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinbastien&exclude_repo=PINTOS-1,Pintos&hide=tex,jupyter%20notebook&count_private=true&layout=compact&langs_count=10"
 />
 <!--
 **shinbastien/shinbastien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
