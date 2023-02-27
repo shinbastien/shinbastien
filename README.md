@@ -9,7 +9,6 @@
 - UI/UX
 - HCI
 - Computer Vision
-- 
 
 
 ### Languages and Tools:
