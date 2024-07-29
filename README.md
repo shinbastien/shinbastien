@@ -2,7 +2,7 @@
 
 ### I'm a Student, Developer and an Engineer
 - I'm attending School of Computing at KAIST.
-- I'm currently working in Grinder as a FrontEnd Developer.
+- I'm currently working in Integration(Medistream) as a FrontEnd Developer.
 
 
 ### Interests
